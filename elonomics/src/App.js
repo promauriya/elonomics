@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import './style/css/bootstrap.min.css';
-import './style/css/fontawesome.min.css';
+import './style/css/fontawesome.css';
 import './style/css/templatemo-edu-meeting.css';
 import './style/css/owl.css';
 import './style/css/lightbox.css';
